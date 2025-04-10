@@ -50,3 +50,15 @@ Establish a CI/CD pipeline for automated building, testing, and deployment
 
 
 ![diagram-export-10-04-2025-21_35_54](https://github.com/user-attachments/assets/bc536eff-15ad-4fca-a809-c59daa062746)
+
+
+## Relevant questions
+1. What's the anticipated scale (applications, log volume)?
+2. Who are the target users?
+3. What's the API ingestion latency limit?
+4. What are the log retention requirements?
+5. How is a "critical error" defined for alerts?
+6. Any alert preferences besides email?
+7. Specific cloud deployment requirements?
+8. Encryption needs (at rest and in transit)?
+9. Who needs access to logs/dashboard?
