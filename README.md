@@ -48,3 +48,5 @@ Establish a CI/CD pipeline for automated building, testing, and deployment
    **CI/CD** GitLab CI/CD or GitHub Actions for automated building, testing, and deployment
    **Logging** Elasticsearch has a real-time analytics and monitorig (creating the dashboards in Kibana), support full-text search capabilities, can tore and manage large volumes of logs
 
+
+![diagram-export-10-04-2025-21_35_54](https://github.com/user-attachments/assets/bc536eff-15ad-4fca-a809-c59daa062746)
